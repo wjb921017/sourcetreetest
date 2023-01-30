@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>downcrow.png</file>
+        <file>southeast.jpg</file>
+    </qresource>
+</RCC>

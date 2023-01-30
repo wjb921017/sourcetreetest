@@ -1,0 +1,6 @@
+﻿  Application.cpp
+e:\sourcetree\c++\game\game\src\application.cpp(25): warning C4005: “PR_DEBUG”: 宏重定义
+  e:\sourcetree\c++\game\game\src\application.cpp: note: 参见“PR_DEBUG”的前一个定义
+e:\sourcetree\c++\game\game\src\application.cpp(27): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\sourcetree\c++\game\game\src\application.cpp(35): warning C4101: “fff”: 未引用的局部变量
+  Game.vcxproj -> E:\sourcetree\c++\Game\Debug\Game.exe
